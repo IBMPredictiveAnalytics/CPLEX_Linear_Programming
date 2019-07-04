@@ -11,7 +11,7 @@ https://www.ibm.com/account/reg/signup?formid=urx-20028), then install it step b
 SPSS Modeler prefers [Anaconda python (2.7)](https://www.continuum.io/downloads).
 
 ####  4. Install CPLEX python package
-Go to {CPLEX Optimization Studio install folder}\cplex\python\2.7\{os} and run "python setup.py install"
+Go to {CPLEX Optimization Studio install folder}\cplex\python\2.7\\{os} and run "python setup.py install"
 
 Notes: 
 - a. refer to this [link](
