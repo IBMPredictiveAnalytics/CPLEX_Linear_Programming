@@ -15,7 +15,7 @@ Go to {CPLEX Optimization Studio install folder}\cplex\python\2.7\\{os} and run 
 
 Notes: 
 - a. refer to this [link](
-https://www.ibm.com/support/knowledgecenter/SSSA5P_12.9.0/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/Python_setup.html) for more detail information.
+https://www.ibm.com/support/knowledgecenter/SSSA5P_12.9.0/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/Python_setup.html) for more detailed information.
 
 ####  5. Run "pip install docplex"
 Ensure pip enable, and run `pip install docplex` to install [docplex](https://pypi.python.org/pypi/docplex) package.
