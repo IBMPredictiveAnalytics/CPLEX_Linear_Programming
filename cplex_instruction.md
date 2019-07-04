@@ -1,7 +1,7 @@
 ## Instruction for CPLEX Python API
 
 #### 1. Download and install CPLEX Optimization Studio
-Download [IBM ILOG CPLEX Optimizer](
+Download [IBM ILOG CPLEX Optimization Studio](
 https://www.ibm.com/account/reg/signup?formid=urx-20028), then install it step by step.
 
 ####  2. Download and install "Visual C++ Redistributable Packages for Visual Studio 2013"(Windows only)
