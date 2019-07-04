@@ -4,8 +4,8 @@
 Download [IBM ILOG CPLEX Optimization Studio](
 https://www.ibm.com/account/reg/signup?formid=urx-20028), then install it step by step.
 
-####  2. Download and install "Visual C++ Redistributable Packages for Visual Studio 2013"(Windows only)
-[Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-US/download/details.aspx?id=40784)
+####  2. Download and install "Visual C++ Redistributable Packages for Visual Studio 2015" (Windows only)
+[Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/fr-fr/download/details.aspx?id=48145)
 
 ####  3. Install python.
 SPSS Modeler prefer [Anaconda python (2.7)](https://www.continuum.io/downloads).
