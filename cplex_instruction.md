@@ -8,7 +8,7 @@ https://www.ibm.com/account/reg/signup?formid=urx-20028), then install it step b
 [Visual C++ Redistributable Packages for Visual Studio 2015](https://www.microsoft.com/fr-fr/download/details.aspx?id=48145)
 
 ####  3. Install python.
-SPSS Modeler prefer [Anaconda python (2.7)](https://www.continuum.io/downloads).
+SPSS Modeler prefers [Anaconda python (2.7)](https://www.continuum.io/downloads).
 
 ####  4. Install CPLEX python package
 Go to {CPLEX Optimization Studio install folder}\cplex\python\2.7\{os} and run "python setup.py install"
