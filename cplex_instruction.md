@@ -2,7 +2,7 @@
 
 #### 1. Download and install CPLEX Optimization Studio
 Download [IBM ILOG CPLEX Optimizer](
-http://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-community-edition/), then install it step by step.
+https://www.ibm.com/account/reg/signup?formid=urx-20028), then install it step by step.
 
 ####  2. Download and install "Visual C++ Redistributable Packages for Visual Studio 2013"(Windows only)
 [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-US/download/details.aspx?id=40784)
